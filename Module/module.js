@@ -1,3 +1,8 @@
-import { message } from "./index.js";
+// import { message } from "./index.js";
 
-console.log(message)
+// console.log(message)
+
+console.log(name)
+var name = 'programminghero'
+
+
